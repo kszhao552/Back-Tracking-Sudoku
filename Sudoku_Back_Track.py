@@ -1,5 +1,6 @@
 
 class Board:
+    #TODO: revise the current check system to make more efficient.
     def __init__(self):
         """creates a new board"""
         self.board = [[0 for i in range(9)]]*9
