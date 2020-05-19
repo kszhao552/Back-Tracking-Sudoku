@@ -1,0 +1,1 @@
+This sudoku solver takes an unsolved sudoku board and fills it in automatically utilizing a back tracking algorithm. 
